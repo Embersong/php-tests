@@ -4,7 +4,6 @@ namespace Php\Package;
 
 use PHPUnit\Framework\TestCase;
 
-
 // Класс UtilsTest наследует класс TestCase
 // Имя класса совпадает с именем файла
 class UtilsTest extends TestCase
